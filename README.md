@@ -2,13 +2,13 @@
 
 - [2022_06_21](p2022_06_21)
 
-변수
+변수(Variable)
 
 - [2022_06_22](p2022_06_22)
 
 명시적 형변환(ExplicitConversion) / 묵시적 형변환(ImplicitConversion)
 
-연산자
+연산자(Operator)
 
 조건문(if)
 
