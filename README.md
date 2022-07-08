@@ -207,4 +207,4 @@
   
   - 스택(Stack) : LIFO(Last Input First Output)구조
   
- 
+  - 제네릭(Generic)
