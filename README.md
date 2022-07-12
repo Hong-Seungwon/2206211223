@@ -215,5 +215,20 @@
   
   - 예외 처리(Exception)
   
-  - Thread
+  - 스레드(Thread)
+  
+#### [2022_07_12](p2022_07_12)
+
+  - clock(Thread 활용) 만들기
+  
+  - 스레드(Thread)
+  
+  - 스레드 동기화(Synchronized)
+  
+  - java.io 패키지
+  
+  `
+  (InputStream, InputStreamReader, BufferedReader, FileReader, FileWriter, FileInputStream, FileOutputStream)
+  `
+  
   
