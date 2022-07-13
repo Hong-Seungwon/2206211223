@@ -241,5 +241,5 @@
   - java.net 패키지
   
   `
-  (InetAddress, )
+  (InetAddress, Socket)
   `
