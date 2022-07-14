@@ -250,3 +250,9 @@
   
   - 멀티 채팅(Socket, ServerSocket)
   
+  #### oracle 연동
+  - java.sql 패키지
+  
+  `
+  (Connection, DriverManager)
+  `
