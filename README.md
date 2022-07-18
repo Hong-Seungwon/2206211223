@@ -270,4 +270,10 @@
   
   - 회원정보 수정 및 탈퇴
   
+#### [2022_07_18](p2022_07_18)
+  - 게시판 만들기(InsertBoard, SelectBoard, UpdateBoard, DeleteBoard)
+  
+  #### MySQL
+  - java.sql 
+  
   
