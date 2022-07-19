@@ -259,7 +259,7 @@
 
 #### [2022_07_15](p2022_07_15)
 
-  #### oracle
+  #### oracle 연동
   - java.sql 패키지
   
   `
@@ -273,7 +273,16 @@
 #### [2022_07_18](p2022_07_18)
   - 게시판 만들기(InsertBoard, SelectBoard, UpdateBoard, DeleteBoard)
   
-  #### MySQL
+  #### MySQL 연동
   - java.sql 
   
+  `
+  (Connection, DriverManager)
+  ` 
   
+#### [2022_07_19](p2022_07_19)
+
+ #### MySQL 연동
+ - 게시판 만들기(InsertBoard, SelectBoard, UpdateBoard, DeleteBoard)
+ 
+ 
