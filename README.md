@@ -285,4 +285,40 @@
  #### MySQL 연동
  - 게시판 만들기(InsertBoard, SelectBoard, UpdateBoard, DeleteBoard)
  
+ #### sqldeveloper
+ - 테이블 목록, 구조 확인
  
+ - 데이터 검색
+ 
+ - 오라클 데이터 타입
+ 
+ `
+ (숫자 데이터, 문자 데이터, 날짜 데이터)
+ `
+ 
+ - SELECT SQL문
+ 
+ - 산술 연산자
+ 
+#### [2022_07_20](p2022_07_20)
+
+  #### sqldeveloper
+  - where 조건절
+  
+  - 논리 연산자(and, or, not)
+  
+  - between and 연산자
+  
+  - in 연산자
+  
+  - like 연산자
+  
+  - 와일드 카드(%, _)
+  
+  - NULL값 검색 및 변경 (is null, nvl)
+  
+  - 정렬(Sort)(asc, desc)
+  
+  - 여러번 정렬
+  
+#### [2022_07_21](p2022_07_21)  
