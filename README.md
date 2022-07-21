@@ -322,4 +322,33 @@
   
   - 여러번 정렬
   
-#### [2022_07_21](p2022_07_21)  
+#### [2022_07_21](p2022_07_21)
+
+  - DUAL 테이블과 SQL 함수 분류
+  
+  - 숫자 함수
+  
+  `
+  (abs(), floor(), round(), trunc(), mod())
+  `
+  
+  - 문자 처리 함수
+  
+  `
+  (upper(), lower(), initcap(), length(), lengthb(), substr(), instr(), lpad(), rpad(), ltrim(), rtrim(), trim())
+  `
+  
+  - 날짜 함수
+  
+  `
+  (sysdate, months_between(), add_months(), next_day(), last_day())
+  `
+  
+  - 형 변환 함수
+  
+  `
+  (to_char(), to_date(), to_number())
+  `
+  
+  
+
