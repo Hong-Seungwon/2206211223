@@ -350,5 +350,28 @@
   (to_char(), to_date(), to_number())
   `
   
-  
+ #### [2022_07_22](p2022_07_22) 
 
+  - nvl()
+  
+  - decode()
+  
+  - case()
+  
+  - 그룹 함수
+  
+  `
+  (sum(), avg(), max(), min(), count())
+  `
+  
+  - group by 절
+  
+  - having 절
+  
+  - cross join
+  
+  `
+  (등가 조인(Equi Join), 비등가 조인(Non-Equi Join), 자체 조인(Self Join), 외부 조인(Outer Join))
+  `
+  
+  - 
