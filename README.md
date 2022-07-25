@@ -350,7 +350,7 @@
   (to_char(), to_date(), to_number())
   `
   
- #### [2022_07_22](p2022_07_22) 
+#### [2022_07_22](p2022_07_22) 
 
   - nvl()
   
@@ -374,4 +374,24 @@
   (등가 조인(Equi Join), 비등가 조인(Non-Equi Join), 자체 조인(Self Join), 외부 조인(Outer Join))
   `
   
-  - 
+#### [2022_07_25](p2022_07_25)
+
+  - ANSI JOIN
+  
+  `
+  (ANSI CROSS JOIN, ANSI INNER JOIN, ANSI NATURAL JOIN, ANSI OUTER JOIN)
+  `
+  
+  - 서브 쿼리
+  
+  - 다중 행 연산자
+  
+  `
+  (IN, ALL, ANY) 
+  `
+  
+  - DDL(Date Definition Language)
+  
+  - 오라클의 객체
+  
+#### [2022_07_26](p2022_07_26)
