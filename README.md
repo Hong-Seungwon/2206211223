@@ -394,4 +394,22 @@
   
   - 오라클의 객체
   
+  - 임시 테이블 삭제(purge recyclebin;)
+  
 #### [2022_07_26](p2022_07_26)
+
+  - DML(Data Mainfulation Language)
+  
+  - merge
+  
+  - 트랜잭션 처리어(Transaction Control Language)
+
+  - 무결성 제약 조건
+  
+  `
+  (NOT NULL, UNIQUE)
+  `
+  
+#### [2022_07_27](p2022_07_27)
+
+  -
