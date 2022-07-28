@@ -426,5 +426,15 @@
  
 #### [2022_07_28](p2022_07_28)
 
+  - 뷰(VIEW)
+  
+  ` 
+  (or replace, with check option, with read only)
+  
+  ` 
+  
+  - rownum
+  
+  - 시퀀스(sequence)
 
 #### [2022_07_29](p2022_07_29)
