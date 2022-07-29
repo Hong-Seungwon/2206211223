@@ -438,3 +438,37 @@
   - 시퀀스(sequence)
 
 #### [2022_07_29](p2022_07_29)
+
+  - 인덱스(index)
+  
+  - 시스템 권한
+  
+  ```
+  create session / table / view/ sequence / procedure
+  
+  계정 생성 : create user 사용자명 identified by 비밀번호;
+  
+  계정 목록 확인 : select * from dba_users;
+  
+  데이터 베이스 접속 권한 부여 : grant create session to 사용자명;
+  
+  with admin option
+  ```
+
+  - 객체 권한
+  
+  ```
+  객체 조회 권한 부여 : grant select on 테이블명 to 사용자명;
+  
+  with grant option
+  ```
+
+  - 롤(role) 권한
+  
+  ```
+  connect(8가지 권한이 포함), resource(20여개 권한), dba(130여개 권한)
+  ```
+  
+  - 동의어(synonym)
+  
+#### [2022_08_01](p2022_08_01)
