@@ -473,7 +473,7 @@
   
 ### [2022_08_01](p2022_08_01)
 
-  ### PL/SQL(Oracle's Procedural Language extension to SQL)
+### PL/SQL(Oracle's Procedural Language extension to SQL)
   
   #### 조건문
   
@@ -497,6 +497,8 @@
   
 ### [2022_08_02](p2022_08_02)
 
+### PL/SQL
+
   - 저장 함수
   
   - 커서(CURSOR)
@@ -507,6 +509,25 @@
   
 ### [2022_08_03](p2022_08_03)
 
+### eXERD
+  
+  ```
+  프라이머리 키 컬럼 : ctrl + shift + enter
+  
+  일반 컬럼 : ctrl + enter
+  
+  자동 배치 : ctrl + shift + f
+  
+  포워드, 리버스 엔지니어링
+  ```
+
+### 웹표준
+
+  ```
+  JSP 환경 구축 : Apache Tomcat
+  
+  JSP 프로젝트, 파일 생성
+  ```
 
 ### [2022_08_04](p2022_08_04)
 
