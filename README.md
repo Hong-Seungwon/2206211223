@@ -531,6 +531,47 @@
 
 ### [2022_08_04](p2022_08_04)
 
+### HTML
+  ```
+  주석 처리 : Ctrl + Shift + /
+  
+  주석 해제 : Ctrl + Shift + \
+  
+  br : 줄 바꿈
+  
+  p : 문단 바꾸기
+  
+  hr : 수평선 긋기
+  
+  h : 제목 출력(h1 > h2 > h3 > h4 > h5 > h6)
+  
+  font(size, color, face)
+  
+  이미지(<img src="">)
+  
+  ol : 순서있는 목록(Ordering List)
+  
+  ul : 순서없는 목록(Unordering List)
+  
+  하이퍼링크(<a href="http://")
+  
+  표(table, tr, td, border, bgcolor, cellspacing, cellpadding, colspan, rowspan)
+  ```
 
 ### [2022_08_05](p2022_08_05)
 
+
+
+### [2022_08_08](p2022_08_08)
+
+
+### [2022_08_09](p2022_08_09)
+
+
+### [2022_08_10](p2022_08_10)
+
+
+### [2022_08_11](p2022_08_11)
+
+
+### [2022_08_12](p2022_08_12)
