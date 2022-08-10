@@ -601,12 +601,49 @@
 - 유동 속성
 
 - 수평, 중앙, One True 정렬 레이아웃
-
-- 
 ```
 
 ### [2022_08_10](p2022_08_10)
 
+### bootstrap(w3schools 예제)
+
+```
+- Button
+
+- Tables
+
+- Pagination
+
+- Dropdowns
+
+- Collapse
+
+- Stacked Form
+
+- Form Inputs
+
+- Scrollspy 
+
+- Filters
+
+- Navs
+```
+  - emport .war 생성 / import .war 불러오기
+  
+### javascript
+
+```
+<script></script>
+<script type="text/javascript"></script>
+<script langage="javascript"></script>
+
+- 자바스크립트 주석
+1. 단일 행 주석 : //
+2. 다중 행 주석 : /* */
+주석 단축키 : Ctrl + Shift + /
+
+-alert
+```
 
 ### [2022_08_11](p2022_08_11)
 
