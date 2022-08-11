@@ -647,5 +647,28 @@
 
 ### [2022_08_11](p2022_08_11)
 
+### javascript
+
+```
+- confirm
+
+- prompt
+
+- variable
+
+- operation
+
+- if
+
+- switch ~ case
+
+- for
+
+- while
+
+- do ~ while
+
+- builtin
+```
 
 ### [2022_08_12](p2022_08_12)
