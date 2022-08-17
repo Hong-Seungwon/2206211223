@@ -700,11 +700,30 @@
 
 - location
 
+- navigator
+
+- history
+
 - form
+
+- Focus, Blur
 ```
 
-
 ### [2022_08_17](p2022_08_17)
+
+```
+- Keyup
+
+- submit
+
+- checkbox
+
+- radio
+
+- select
+
+- loginform, boardform, memberform
+```
 
 ### [2022_08_18](p2022_08_18)
 
