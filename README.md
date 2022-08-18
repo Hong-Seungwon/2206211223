@@ -722,10 +722,26 @@
 
 - select
 
-- loginform, boardform, memberform
+- loginform, boardform, memberform 적용
 ```
 
 ### [2022_08_18](p2022_08_18)
 
+```
+- memberform, member.js
+
+- cookie
+```
+### jQuery
+```
+1. 라이브러리 사용
+2. CDN(Contents Delivery Network) 방식
+
+- 글자 숨기기
+
+- 코드 외부 파일화
+
+- CSS에서 자주 사용되는 selector
+```
 ### [2022_08_19](p2022_08_19)
 
