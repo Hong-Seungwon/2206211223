@@ -1,4 +1,4 @@
-# JAVA기반 웹프로그래머
+# JAVA기반 웹개발자
 
 ### [2022_06_21](p2022_06_21)
 ### Java
@@ -784,6 +784,25 @@
 ### JSP
 
 ### [2022_08_25](p2022_08_25)
+### JSP
+```
+- 스크립틀릿 태그(Scriptlet tag)
 
+- 표현식 태그(Expression Tag)
+
+- 지시어 태그(Directive Tag)
+1. 페이지 태그(Page Tag)
+
+- 선언 태그(Declaration Tag)
+
+- import
+1. Date
+2. Timestamp
+3. Calendar
+
+- 주석문
+
+- request
+```
 
 ### [2022_08_26](p2022_08_26)
