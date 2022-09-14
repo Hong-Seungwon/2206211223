@@ -911,7 +911,14 @@ updateForm.jsp, updatePro.jsp
 ```
 
 ### [2022_09_14](p2022_09_!4)
-
+```
+- 파일 업로드(upload)
+writeForm.jsp, writePro.jsp
+list.jsp
+content.jsp
+updateForm.jsp, updatePro.jsp
+deleteForm.jsp, deletePro.jsp
+```
 
 ### [2022_09_15](p2022_09_15)
 
