@@ -921,7 +921,13 @@ deleteForm.jsp, deletePro.jsp
 ```
 
 ### [2022_09_15](p2022_09_15)
+```
+- Java Servlet
+ex111, ex222, ex333, ex555, ex666, ex777
 
+- 표현언어(Expression Language)
+ex11, ex22, ex33
+```
 
 ### [2022_09_16](p2022_09_16)
 
