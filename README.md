@@ -930,6 +930,34 @@ ex11, ex22, ex33
 ```
 
 ### [2022_09_16](p2022_09_16)
+```
+- JSTL(JSP Standard Tag Library) 태그 종류
+1. core
+(set, remove, if, choose, catch, otherwise, out, forEach, forTokens)
+
+2. fmt
+(formatDate, formatNumber, timeZone)
+
+3. fn
+(length, toUpperCase, toLowerCase, substring, substringAfter, substringBefore, 
+trim, replace, indexOf, startsWith, endsWith, contains, containsIgnoreCase)
+
+4. sql
+(setDataSource, update, query, param)
+
+- Model2 이용한 회원관리
+```
+
+### [2022_09_19](p2022_09_19)
 
 
+### [2022_09_20](p2022_09_20)
 
+
+### [2022_09_21](p2022_09_21)
+
+
+### [2022_09_22](p2022_09_22)
+
+
+### [2022_09_23](p2022_09_23)
