@@ -956,7 +956,7 @@ Action, ActionForward
 MemberController
 회원가입폼 : MemberInsert.java, memberform.jsp
 ID중복검사 : IdCheck.java(ajax)
-로그인 폼 : loginform.jsp, Login.java
+로그인 폼 : loginform.jsp, Login.java, main.jsp
 로그아웃 : logout.jsp
 ```
 
