@@ -945,15 +945,16 @@ trim, replace, indexOf, startsWith, endsWith, contains, containsIgnoreCase)
 4. sql
 (setDataSource, update, query, param)
 
-- Model2 이용한 회원관리
+- Model2 이용한 회원 관리
 member.sql
 Controller 클래스, DTO/DAO 클래스
 ```
 
 ### [2022_09_19](p2022_09_19)
 ```
+- 회원 관리
 Action, ActionForward
-MemberController
+MemberController, DAO
 회원가입폼 : MemberInsert.java, memberform.jsp
 ID중복검사 : IdCheck.java(ajax)
 로그인 폼 : loginform.jsp, Login.java, main.jsp
@@ -961,7 +962,12 @@ ID중복검사 : IdCheck.java(ajax)
 ```
 
 ### [2022_09_20](p2022_09_20)
-
+```
+- 회원 관리
+MemberController, DAO
+수정 폼 : UpdateMember.java, updatform.jsp, Update.java
+삭제 폼 : Delete.java, deleteform.jsp, result.jsp
+```
 
 ### [2022_09_21](p2022_09_21)
 
