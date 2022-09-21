@@ -954,7 +954,8 @@ Controller 클래스, DTO/DAO 클래스
 ```
 - 회원 관리
 Action, ActionForward
-MemberController, DAO
+MemberController
+DAO
 회원가입폼 : MemberInsert.java, memberform.jsp
 ID중복검사 : IdCheck.java(ajax)
 로그인 폼 : loginform.jsp, Login.java, main.jsp
@@ -970,7 +971,15 @@ MemberController, DAO
 ```
 
 ### [2022_09_21](p2022_09_21)
-
+```
+- 모델2 게시판
+board.sql
+BoardBean.java, BoardDAO.java
+BoardFrontController.java
+Action.java, ActionForward.java
+글 작성 폼: qna_board_write.jsp, BoardAddAction.java
+글 목록 : BoardListAction.java, qna_board_list.jsp
+```
 
 ### [2022_09_22](p2022_09_22)
 
