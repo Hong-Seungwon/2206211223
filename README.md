@@ -952,7 +952,7 @@ Controller 클래스, DTO/DAO 클래스
 
 ### [2022_09_19](p2022_09_19)
 ```
-- 회원 관리
+- 모델2 회원 관리
 Action, ActionForward
 MemberController
 DAO
@@ -964,7 +964,7 @@ ID중복검사 : IdCheck.java(ajax)
 
 ### [2022_09_20](p2022_09_20)
 ```
-- 회원 관리
+- 모델2 회원 관리
 MemberController, DAO
 수정 폼 : UpdateMember.java, updatform.jsp, Update.java
 삭제 폼 : Delete.java, deleteform.jsp, result.jsp
@@ -982,6 +982,17 @@ Action.java, ActionForward.java
 ```
 
 ### [2022_09_22](p2022_09_22)
-
+```
+- 모델2 게시판
+글 목록 : qna_board_list.jsp
+글 내용 : BoardDetailAction.java, qna_board_view.jsp
+댓글 : BoardReplyAction.java, qna_board_reply.jsp, BoardReply.java
+수정 : BoardModifyAction.java, qna_board_modify.jsp, BoardModify.java
+```
 
 ### [2022_09_23](p2022_09_23)
+```
+- 모델2 게시판
+수정 : BoardModifyAction.java, qna_board_modify.jsp, BoardModify.java
+
+```
