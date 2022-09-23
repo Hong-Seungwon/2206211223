@@ -993,6 +993,12 @@ Action.java, ActionForward.java
 ### [2022_09_23](p2022_09_23)
 ```
 - 모델2 게시판
-수정 : BoardModifyAction.java, qna_board_modify.jsp, BoardModify.java
+qna_board_view.jsp
+수정 : BoardModifyAction.java, qna_board_modify.jsp, BoardModify.java, updateresult.jsp
+삭제 : qna_board_delete.jsp, BoardDelete.java
 
+- Maven
+프로젝트 생성
+repository 
+Export, Import
 ```
