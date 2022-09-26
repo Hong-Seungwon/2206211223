@@ -1004,7 +1004,11 @@ Export, Import
 ```
 
 ### [2022_09_26](p2022_09_26)
-
+```
+- mybatis
+mybatistest Import
+member22
+```
 
 ### [2022_09_27](p2022_09_27)
 
