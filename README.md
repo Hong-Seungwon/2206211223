@@ -1041,7 +1041,13 @@ sample15(beans15.xml), sample16(beans16.xml), sample17(beans17.xml))
 ```
 
 ### [2022_10_04](p2022_10_04)
-
+```
+hello Import
+hello
+ch07 Import
+ch07
+인터셉터(Interceptor)
+```
 
 ### [2022_10_05](p2022_10_05)
 
