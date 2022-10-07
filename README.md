@@ -1063,3 +1063,26 @@ myBatis2
 ```
 
 ### [2022_10_07](p2022_10_07)
+```
+myBatis2
+
+- STS에 Data source Management추가
+
+- spring 실습
+계정 생성
+sql(테이블 및 시퀀스 생성)
+환경 설정 파일 작성 
+BoardController.java, BoardService.java, BoardDao.java, Board.java
+글 작성, 글 개수, 글 목록, 
+```
+
+### [2022_10_11](p2022_10_11)
+
+
+### [2022_10_12](p2022_10_12)
+
+
+### [2022_10_13](p2022_10_13)
+
+
+### [2022_10_14](p2022_10_14)
