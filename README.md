@@ -1073,14 +1073,26 @@ myBatis2
 sql(테이블 및 시퀀스 생성)
 환경 설정 파일 작성 
 BoardController.java, BoardService.java, BoardDao.java, Board.java
-글 작성, 글 개수, 글 목록, 
+글 작성, 글 개수, 글 목록 
 ```
 
 ### [2022_10_11](p2022_10_11)
+```
+- spring 실습
+상세 페이지, 수정 폼, 글수정, 삭제 폼, 삭제
 
+- Email 보내기
+mailTest
+
+- springmember(회원가입)
+환경 설정 파일
+```
 
 ### [2022_10_12](p2022_10_12)
+```
+- springmember(회원가입)
 
+```
 
 ### [2022_10_13](p2022_10_13)
 
