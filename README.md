@@ -1092,6 +1092,7 @@ mailTest
 ```
 - springmember(회원가입)
 
+- springboard
 ```
 
 ### [2022_10_13](p2022_10_13)
