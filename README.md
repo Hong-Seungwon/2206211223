@@ -1092,10 +1092,17 @@ mailTest
 ```
 - springmember(회원가입)
 
-- springboard
+- springboard(게시판 및 댓글)
 ```
 
 ### [2022_10_13](p2022_10_13)
+```
+- springboard(게시판 및 댓글)
 
+- board1(게시판 및 검색)
+
+- 동적 SQL
+mybatis-3-user-guide_ko(42p)
+```
 
 ### [2022_10_14](p2022_10_14)
