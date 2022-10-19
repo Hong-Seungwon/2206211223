@@ -1138,6 +1138,7 @@ mybatis01
 ```
 - Thymeleaf
 Thymeleaf
+Thymeleafboard
 ```
 
 ### [2022_10_20](p2022_10_20)
