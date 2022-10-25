@@ -1162,3 +1162,20 @@ gradletest
 
 - pycharm 설치
 ```
+
+### [2022_10_24](p2022_10_24)
+```
+- pycharm 세팅
+keymap -> Get more keymap in Settings | Plugins -> eclipse 
+
+- first.py
+
+- python 예약어
+keyword1.py
+
+- 주석(comment)
+comment.py
+
+- 변수(variable)
+varialbe.py
+```
