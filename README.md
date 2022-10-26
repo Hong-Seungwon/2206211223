@@ -1163,7 +1163,7 @@ gradletest
 - pycharm 설치
 ```
 
-### [2022_10_24](p2022_10_24)
+### [2022_10_25](p2022_10_25)
 ```
 - pycharm 세팅
 keymap -> Get more keymap in Settings | Plugins -> eclipse 
@@ -1178,4 +1178,28 @@ comment.py
 
 - 변수(variable)
 varialbe.py
+```
+
+### [2022_10_26](p2022_10_26)
+```
+- 대입 연산자
+oper01
+
+- 대입 연산자
+oper02
+
+- 산술 연산자
+oper01
+
+- 비교 연산자
+oper03
+
+- 논리 연산자
+oper04, oper05
+
+- 복합 대입 연산자
+oper06
+
+- 멤버 연산자
+oper07, oper08
 ```
