@@ -1207,42 +1207,114 @@ oper07, oper08
 ### [2022_10_27](p2022_10_27)
 ```
 - 내장 함수
-builtin01, builtin02, builtin03, builtin04
 
 - if문
-if01, if02, if03, if04, if05, if06
 
 - for문
-for01, for02, for03, for04, for05, for06, for07, for08
-
-- while문
-while01, while02, while03, while04, while05
-
-- continue문
-continue01, continue02, continue03
-
-- break문
-break01, break02
 ```
 
 ### [2022_10_28](p2022_10_28)
 ```
+- if문
+if_max_min
 
+- for문
+
+- while문
+
+- break문
+
+- continue문
+
+- str문
+str01~04
 ```
 
 ### [2022_10_31](p2022_10_31)
 ```
+- str문
 
+- upper
+
+- format
+
+- len
+
+- count
+
+- escape
+
+- find
+
+- strip
+
+- isdigit
 ```
 
 ### [2022_11_01](p2022_11_01)
 ```
+- 피보나치
 
+- join
+
+- split
+
+- replace
+
+- sorted
+
+- list
+
+- sum
+
+- len
+
+- append
+
+- remove
+
+- del
+
+- index
+
+- insert
 ```
 
 ### [2022_11_02](p2022_11_02)
 ```
+- list
 
+- sum
+
+- len
+
+- append
+
+- remove
+
+- del
+
+- index
+
+- insert
+
+- pop
+
+- find
+
+- append
+
+- sort
+
+- sorted
+
+- reverse
+
+- tuple
+
+- set
+
+- dick
 ```
 
 ### [2022_11_03](p2022_11_03)
@@ -1254,5 +1326,7 @@ break01, break02
 
 ### [2022_11_04](p2022_11_04)
 ```
+- avg
 
+- function
 ```
