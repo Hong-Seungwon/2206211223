@@ -1335,7 +1335,24 @@ str01~04
 
 ### [2022_11_07(p2022_11_07)
 ```
-- function
+- lambda
 
-- 
+- map
+
+- filter
+
+- import
+
+- mathtest
+```
+
+### [2022_11_08(p2022_11_08)
+```
+- lotto
+
+- timetest
+
+- calculator
+
+- tester
 ```
