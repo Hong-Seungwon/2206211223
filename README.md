@@ -1333,7 +1333,7 @@ str01~04
 - lambda
 ```
 
-### [2022_11_07(p2022_11_07)
+### [2022_11_07](p2022_11_07)
 ```
 - lambda
 
@@ -1346,7 +1346,7 @@ str01~04
 - mathtest
 ```
 
-### [2022_11_08(p2022_11_08)
+### [2022_11_08](p2022_11_08)
 ```
 - lotto
 
@@ -1355,4 +1355,16 @@ str01~04
 - calculator
 
 - tester
+```
+
+### [2022_11_09](p2022_11_09)
+```
+- class
+(Animal, Car, InstanceVar, mode, call, ContactInfo, Calculator, Inheritance, multi, overriding)
+```
+
+### [2022_11_10](p2022_11_10)
+```
+- class
+(overriding, )
 ```
