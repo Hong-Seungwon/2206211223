@@ -1366,10 +1366,19 @@ str01~04
 ### [2022_11_10](p2022_11_10)
 ```
 - class
-(overriding, )
+(overriding, constructor)
+
+- exception
+(except)
 ```
 
 ### [2022_11_11](p2022_11_11)
+```
+- file
+(read, readline, readlines, with_read, with_readline, with_readlines, write)
+```
+
+### [2022_11_14](p2022_11_14)
 ```
 - 
 ```
