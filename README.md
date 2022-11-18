@@ -1404,10 +1404,26 @@ str01~04
 ### [2022_11_16](p2022_11_16)
 ```
 - sqlite
-()
+(makedb, insert, select, update, delete)
+
+- oracle
+(oracletest, insert, select, update, delete)
+
+- mysql
+(mysqltest, selectone, insert, selectall)
 ```
 
 ### [2022_11_17](p2022_11_17)
 ```
-- 
+- mysql
+(mysqltest, insert, selectone, selectall, update, delete)
+
+- regular
+(regular, meta)
+```
+
+### [2022_11_18](p2022_11_18)
+```
+- regular
+(meta, match, string_find, jumin, sub)
 ```
