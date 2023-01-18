@@ -86,9 +86,9 @@
    `
    (Package와 Import, 같은 패키지/다른 패키지에 들어있는 클래스
    `
-   
-   [a/b](a/b) / [Calling.class](Calling.class), [hello](hello) / [UsePackageHelloWorld.class](UsePackageHelloWorld.class)
-   
+   ```
+   a/b / Calling.class, hello / UsePackageHelloWorld.class
+   ```
    
    - 날짜, 시간 관련 클래스
    
