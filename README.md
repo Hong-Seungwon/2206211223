@@ -1,5 +1,7 @@
 # 프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정 <br> (22.06.21 ~ 22.12.27)
 
+[Tistory 바로가기](https://h0ngss-data.tistory.com)
+
 ## Java
 ### [2022_06_21](p2022_06_21) 
   - 변수(Variable)
